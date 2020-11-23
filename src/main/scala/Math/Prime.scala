@@ -1,0 +1,5 @@
+package Math
+
+object Prime {
+
+}
